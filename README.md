@@ -21,5 +21,5 @@ localhost:9000
 
 And after do it you can access the ordered-resource.properties in the *pub/* project folder.
 
-*Pin point here* I know that searching in file sometimes sucks a little so I've decided to create an achor to download a *txt*
+*Pin point here* I know that searching in files sometimes sucks a little so I've decided to create an achor to download a *txt*
 of the file, hope that this helps to not get bored to see a blank page.
