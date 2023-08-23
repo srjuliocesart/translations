@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  php:
+    tty: true
+    image: docker.io/bitnami/php-fpm:8.2
+    ports:
+      - 9000:9000
+    volumes:
+      - .:/app
+    command: php -S 0.0.0.0:9000 -t public/
